@@ -1,3 +1,5 @@
 .venv
 .claude
 enzax
+.venv312
+__pycache__/
